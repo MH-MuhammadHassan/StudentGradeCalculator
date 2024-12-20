@@ -17,7 +17,3 @@ This Dart program calculates a grade based on marks entered by the user. It vali
    - **40 - 49**: D
    - **Below 40**: F
 4. The calculated grade is displayed to the user.
-
-## Example
-
-Input:
